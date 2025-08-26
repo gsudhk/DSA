@@ -1,0 +1,10 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    string s1 = "bat";
+    string s2 = "tob";
+    sort(s1.begin(),s1.end());
+    sort(s2.begin(),s2.end());
+    cout << (s1==s2) << endl;
+}
+//AS THIS IS A CPP CODE IT IS MUTABLE MAKING IT OF O(M+N) TIME COMPLEXITY AND O(1) SPACE COMPLEXITY
