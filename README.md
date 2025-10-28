@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/gsudhk/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gsudhk/DSA/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gsudhk/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/gsudhk/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/gsudhk/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
