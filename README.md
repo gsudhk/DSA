@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/gsudhk/DSA/tree/master/0485-max-consecutive-ones) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gsudhk/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/gsudhk/DSA/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/gsudhk/DSA/tree/master/2058-concatenation-of-array) |
