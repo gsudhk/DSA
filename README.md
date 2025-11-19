@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/gsudhk/DSA/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/gsudhk/DSA/tree/master/2058-concatenation-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/gsudhk/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gsudhk/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gsudhk/DSA/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/gsudhk/DSA/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/gsudhk/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gsudhk/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gsudhk/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gsudhk/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+## Hash Table
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/gsudhk/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/gsudhk/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
