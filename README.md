@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/gsudhk/DSA/tree/master/0383-ransom-note) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gsudhk/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
@@ -74,9 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/gsudhk/DSA/tree/master/0383-ransom-note) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gsudhk/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gsudhk/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/gsudhk/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
