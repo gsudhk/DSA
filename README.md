@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gsudhk/DSA/tree/master/0009-palindrome-number) |
+| [0728-self-dividing-numbers](https://github.com/gsudhk/DSA/tree/master/0728-self-dividing-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2571-find-the-pivot-integer](https://github.com/gsudhk/DSA/tree/master/2571-find-the-pivot-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gsudhk/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
