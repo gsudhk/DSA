@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/gsudhk/DSA/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/gsudhk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsudhk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/gsudhk/DSA/tree/master/0485-max-consecutive-ones) |
@@ -107,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/gsudhk/DSA/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gsudhk/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
