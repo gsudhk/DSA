@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/gsudhk/DSA/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/gsudhk/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gsudhk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsudhk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gsudhk/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gsudhk/DSA/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/gsudhk/DSA/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gsudhk/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gsudhk/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gsudhk/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gsudhk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Bit Manipulation
