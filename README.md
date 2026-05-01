@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gsudhk/DSA/tree/master/0009-palindrome-number) |
 | [0728-self-dividing-numbers](https://github.com/gsudhk/DSA/tree/master/0728-self-dividing-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/gsudhk/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gsudhk/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2571-find-the-pivot-integer](https://github.com/gsudhk/DSA/tree/master/2571-find-the-pivot-integer) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/gsudhk/DSA/tree/master/0383-ransom-note) |
+| [1903-largest-odd-number-in-string](https://github.com/gsudhk/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gsudhk/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gsudhk/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/gsudhk/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
