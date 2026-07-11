@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/gsudhk/DSA/tree/master/0175-combine-two-tables) |
+| [0620-not-boring-movies](https://github.com/gsudhk/DSA/tree/master/0620-not-boring-movies) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gsudhk/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
