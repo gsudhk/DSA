@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gsudhk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsudhk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gsudhk/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0474-ones-and-zeroes](https://github.com/gsudhk/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gsudhk/DSA/tree/master/0485-max-consecutive-ones) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gsudhk/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/gsudhk/DSA/tree/master/1580-shuffle-the-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/gsudhk/DSA/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/gsudhk/DSA/tree/master/0383-ransom-note) |
+| [0474-ones-and-zeroes](https://github.com/gsudhk/DSA/tree/master/0474-ones-and-zeroes) |
 | [1903-largest-odd-number-in-string](https://github.com/gsudhk/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gsudhk/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsudhk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0474-ones-and-zeroes](https://github.com/gsudhk/DSA/tree/master/0474-ones-and-zeroes) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/gsudhk/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Two Pointers
 |  |
