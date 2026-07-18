@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gsudhk/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gsudhk/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/gsudhk/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gsudhk/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/gsudhk/DSA/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gsudhk/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gsudhk/DSA/tree/master/0012-integer-to-roman) |
 | [0728-self-dividing-numbers](https://github.com/gsudhk/DSA/tree/master/0728-self-dividing-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/gsudhk/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gsudhk/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gsudhk/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2571-find-the-pivot-integer](https://github.com/gsudhk/DSA/tree/master/2571-find-the-pivot-integer) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gsudhk/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gsudhk/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
