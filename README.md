@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gsudhk/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2571-find-the-pivot-integer](https://github.com/gsudhk/DSA/tree/master/2571-find-the-pivot-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/gsudhk/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gsudhk/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gsudhk/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gsudhk/DSA/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gsudhk/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/gsudhk/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gsudhk/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3536-maximum-product-of-two-digits](https://github.com/gsudhk/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
