@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gsudhk/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0474-ones-and-zeroes](https://github.com/gsudhk/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gsudhk/DSA/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/gsudhk/DSA/tree/master/0877-stone-game) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gsudhk/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/gsudhk/DSA/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gsudhk/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gsudhk/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/gsudhk/DSA/tree/master/0012-integer-to-roman) |
 | [0728-self-dividing-numbers](https://github.com/gsudhk/DSA/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/gsudhk/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/gsudhk/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gsudhk/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gsudhk/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsudhk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/gsudhk/DSA/tree/master/0474-ones-and-zeroes) |
+| [0877-stone-game](https://github.com/gsudhk/DSA/tree/master/0877-stone-game) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/gsudhk/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Two Pointers
 |  |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/gsudhk/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gsudhk/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
