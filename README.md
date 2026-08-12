@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gsudhk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gsudhk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gsudhk/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/gsudhk/DSA/tree/master/0238-product-of-array-except-self) |
 | [0474-ones-and-zeroes](https://github.com/gsudhk/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gsudhk/DSA/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/gsudhk/DSA/tree/master/0877-stone-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/gsudhk/DSA/tree/master/0238-product-of-array-except-self) |
 | [2571-find-the-pivot-integer](https://github.com/gsudhk/DSA/tree/master/2571-find-the-pivot-integer) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gsudhk/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
