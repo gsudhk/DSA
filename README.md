@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gsudhk/DSA/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/gsudhk/DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/gsudhk/DSA/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/gsudhk/DSA/tree/master/0474-ones-and-zeroes) |
 | [1903-largest-odd-number-in-string](https://github.com/gsudhk/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/gsudhk/DSA/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/gsudhk/DSA/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gsudhk/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/gsudhk/DSA/tree/master/3794-reverse-string-prefix) |
 ## Union-Find
